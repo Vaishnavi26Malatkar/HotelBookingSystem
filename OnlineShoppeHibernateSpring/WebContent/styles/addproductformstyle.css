@@ -1,0 +1,87 @@
+.productContainer
+{
+	border: 5px solid #000;
+	border-radius: 10px;
+	padding-top: 10px;
+	padding-left: 15px;
+	padding-right:50px;
+	padding-bottom:5px;
+	width:50%;
+	background-color: gray;
+	margin-top: 250px;
+	margin-left: 250px;
+	font-family: cursive;
+	font-size: 110%;
+}
+
+#pid
+{
+	width:100%;
+	padding:10px;
+	border-radius: 7px;
+	margin: 5px;
+	display: inline-block;
+	box-sizing: border-box;
+    background-color: silver;
+}
+
+#pnm
+{
+	width:100%;
+	padding:10px;
+	border-radius: 7px;
+	margin: 5px;
+	display: inline-block;
+	box-sizing: border-box;
+    background-color: silver;
+}
+
+#pbr
+{
+	width:100%;
+	padding:10px;
+	border-radius: 7px;
+	margin: 5px;
+	box-sizing: border-box;
+	background-color: silver;
+	
+}
+
+#ppr
+{
+	width:100%;
+	padding:10px;
+	border-radius: 7px;
+	margin: 5px;
+	box-sizing: border-box;
+	background-color: silver;
+	
+}
+
+input[type="submit"]
+{
+	width:100%;
+	cursor: pointer;
+	background-color: green;
+	color:white;
+	padding:10px;
+	border-radius: 7px;
+	margin: 6px;
+	font-family: cursive;
+	font-size: 110%;
+	box-sizing: border-box;
+}
+
+input[type="reset"]
+{
+	width:100%;
+	cursor: pointer;
+	background-color: green;
+	color:white;
+	padding:10px;
+	border-radius: 7px;
+	margin: 6px;
+	font-family: cursive;
+	font-size: 110%;
+	box-sizing: border-box;
+}
